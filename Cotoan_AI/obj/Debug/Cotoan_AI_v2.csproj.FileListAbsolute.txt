@@ -1,0 +1,78 @@
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.exe
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.pdb
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\MChess.MChess.resources
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.Properties.Resources.resources
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csproj.GenerateResource.Cache
+F:\Documents\Co Toan\Cotoan_AI\New folder\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+F:\Documents\Co Toan\Cotoan_AI\New folder\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
+F:\Documents\Co Toan\Cotoan_AI\New folder\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.exe
+F:\Documents\Co Toan\Cotoan_AI\New folder\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.pdb
+F:\Documents\Co Toan\Cotoan_AI\New folder\Cotoan_AI\Cotoan_AI\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents\Co Toan\Cotoan_AI\New folder\Cotoan_AI\Cotoan_AI\obj\Debug\MChess.MChess.resources
+F:\Documents\Co Toan\Cotoan_AI\New folder\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.Properties.Resources.resources
+F:\Documents\Co Toan\Cotoan_AI\New folder\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csproj.GenerateResource.Cache
+C:\Documents and Settings\lenovo\Desktop\Co Toan\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+C:\Documents and Settings\lenovo\Desktop\Co Toan\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
+C:\Documents and Settings\lenovo\Desktop\Co Toan\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.exe
+C:\Documents and Settings\lenovo\Desktop\Co Toan\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.pdb
+C:\Documents and Settings\lenovo\Desktop\Co Toan\Cotoan_AI\Cotoan_AI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lenovo\Desktop\Co Toan\Cotoan_AI\Cotoan_AI\obj\Debug\MChess.MChess.resources
+C:\Documents and Settings\lenovo\Desktop\Co Toan\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.Properties.Resources.resources
+C:\Documents and Settings\lenovo\Desktop\Co Toan\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csproj.GenerateResource.Cache
+C:\Documents and Settings\TRI BAC\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+C:\Documents and Settings\TRI BAC\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
+C:\Documents and Settings\TRI BAC\Desktop\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.exe
+C:\Documents and Settings\TRI BAC\Desktop\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.pdb
+C:\Documents and Settings\TRI BAC\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TRI BAC\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\MChess.MChess.resources
+C:\Documents and Settings\TRI BAC\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.Properties.Resources.resources
+C:\Documents and Settings\TRI BAC\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csproj.GenerateResource.Cache
+D:\ebook\BAO-CAO-KY8\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+D:\ebook\BAO-CAO-KY8\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.exe
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.pdb
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\MChess.MChess.resources
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.Properties.Resources.resources
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csproj.GenerateResource.Cache
+C:\Users\BK\Desktop\Thực tập chuyên ngành\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+C:\Users\BK\Desktop\Thực tập chuyên ngành\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
+C:\Users\BK\Desktop\Thực tập chuyên ngành\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.exe
+C:\Users\BK\Desktop\Thực tập chuyên ngành\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.pdb
+C:\Users\BK\Desktop\Thực tập chuyên ngành\Cotoan_AI\Cotoan_AI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BK\Desktop\Thực tập chuyên ngành\Cotoan_AI\Cotoan_AI\obj\Debug\MChess.MChess.resources
+C:\Users\BK\Desktop\Thực tập chuyên ngành\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.Properties.Resources.resources
+C:\Users\BK\Desktop\Thực tập chuyên ngành\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csproj.GenerateResource.Cache
+E:\Thực tập chuyên ngành\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+E:\Thực tập chuyên ngành\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
+E:\iCloud Drive\Documents\Studies\UET 2015 - 2016 - Sem 1\Artificial Intelligence\CoToanFileNen\Co Toan\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+E:\iCloud Drive\Documents\Studies\UET 2015 - 2016 - Sem 1\Artificial Intelligence\CoToanFileNen\Co Toan\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
+E:\iCloud Drive\Documents\Studies\UET 2015 - 2016 - Sem 1\Artificial Intelligence\CoToanFileNen\Co Toan\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.exe
+E:\iCloud Drive\Documents\Studies\UET 2015 - 2016 - Sem 1\Artificial Intelligence\CoToanFileNen\Co Toan\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.pdb
+E:\iCloud Drive\Documents\Studies\UET 2015 - 2016 - Sem 1\Artificial Intelligence\CoToanFileNen\Co Toan\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csprojResolveAssemblyReference.cache
+E:\iCloud Drive\Documents\Studies\UET 2015 - 2016 - Sem 1\Artificial Intelligence\CoToanFileNen\Co Toan\Cotoan_AI\Cotoan_AI\obj\Debug\MChess.MChess.resources
+E:\iCloud Drive\Documents\Studies\UET 2015 - 2016 - Sem 1\Artificial Intelligence\CoToanFileNen\Co Toan\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.Properties.Resources.resources
+E:\iCloud Drive\Documents\Studies\UET 2015 - 2016 - Sem 1\Artificial Intelligence\CoToanFileNen\Co Toan\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csproj.GenerateResource.Cache
+C:\Users\vuhai\Downloads\Cotoan_AI\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.exe
+C:\Users\vuhai\Downloads\Cotoan_AI\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.pdb
+C:\Users\vuhai\Downloads\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csprojResolveAssemblyReference.cache
+C:\Users\vuhai\Downloads\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\MChess.MChess.resources
+C:\Users\vuhai\Downloads\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.Properties.Resources.resources
+C:\Users\vuhai\Downloads\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csproj.GenerateResource.Cache
+C:\Users\vuhai\Downloads\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csproj.CoreCompileInputs.cache
+C:\Users\vuhai\Downloads\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+C:\Users\vuhai\Downloads\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
+C:\Users\Marowalker\Desktop\math-chess-game-remove_evaluation_function\Cotoan_AI\bin\Debug\Cotoan_AI.exe
+C:\Users\Marowalker\Desktop\math-chess-game-remove_evaluation_function\Cotoan_AI\bin\Debug\Cotoan_AI.pdb
+C:\Users\Marowalker\Desktop\math-chess-game-remove_evaluation_function\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csprojAssemblyReference.cache
+C:\Users\Marowalker\Desktop\math-chess-game-remove_evaluation_function\Cotoan_AI\obj\Debug\MChess.MChess.resources
+C:\Users\Marowalker\Desktop\math-chess-game-remove_evaluation_function\Cotoan_AI\obj\Debug\Cotoan_AI.Properties.Resources.resources
+C:\Users\Marowalker\Desktop\math-chess-game-remove_evaluation_function\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csproj.GenerateResource.cache
+C:\Users\Marowalker\Desktop\math-chess-game-remove_evaluation_function\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csproj.CoreCompileInputs.cache
+C:\Users\Marowalker\Desktop\math-chess-game-remove_evaluation_function\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+C:\Users\Marowalker\Desktop\math-chess-game-remove_evaluation_function\Cotoan_AI\obj\Debug\Cotoan_AI.pdb

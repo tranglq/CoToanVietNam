@@ -1,0 +1,24 @@
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.exe
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.pdb
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\MChess.MChess.resources
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.Properties.Resources.resources
+C:\Users\Hoang\Desktop\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.csproj.GenerateResource.Cache
+E:\old\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+E:\old\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
+E:\old\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.exe
+E:\old\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.pdb
+E:\old\Cotoan_AI\Cotoan_AI\obj\Debug\ResolveAssemblyReference.cache
+E:\old\Cotoan_AI\Cotoan_AI\obj\Debug\MChess.MChess.resources
+E:\old\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.Properties.Resources.resources
+E:\old\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.csproj.GenerateResource.Cache
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.exe
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\bin\Debug\Cotoan_AI.pdb
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\MChess.MChess.resources
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.Properties.Resources.resources
+F:\Documents\Co Toan\Cotoan_AI\Cotoan_AI\Cotoan_AI\obj\Debug\Cotoan_AI.csproj.GenerateResource.Cache

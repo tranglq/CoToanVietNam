@@ -1,0 +1,145 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C2609C7F-2148-4758-BE0D-1B5C2EA26BC4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Cotoan_AI</RootNamespace>
+    <AssemblyName>Cotoan_AI</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <ApplicationIcon>LaST %28Cobalt%29 Pictures.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Board.cs" />
+    <Compile Include="Chess.cs" />
+    <Compile Include="Evaluator.cs" />
+    <Compile Include="HistoryTable.cs" />
+    <Compile Include="Library.cs" />
+    <Compile Include="MChess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MChess.designer.cs">
+      <DependentUpon>MChess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Move.cs" />
+    <Compile Include="Piece.cs" />
+    <Compile Include="Point.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MChess.resx">
+      <DependentUpon>MChess.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Searching.cs" />
+    <Compile Include="TranspositionTable.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LaST %28Cobalt%29 Pictures.ico" />
+    <None Include="Resources\hl1.png" />
+    <None Include="Resources\hl2.png" />
+    <None Include="Resources\d1_v1.png" />
+    <None Include="Resources\d2_v1.png" />
+    <None Include="Resources\x9_v1.png" />
+    <None Include="Resources\x1_v1.png" />
+    <None Include="Resources\x9_v2.png" />
+    <None Include="Resources\x8_v2.png" />
+    <None Include="Resources\x7_v2.png" />
+    <None Include="Resources\x6_v2.png" />
+    <None Include="Resources\x5_v2.png" />
+    <None Include="Resources\x4_v2.png" />
+    <None Include="Resources\x3_v2.png" />
+    <None Include="Resources\x2_v2.png" />
+    <None Include="Resources\x1_v2.png" />
+    <None Include="Resources\x0_v2.png" />
+    <None Include="Resources\d9_v2.png" />
+    <None Include="Resources\d8_v2.png" />
+    <None Include="Resources\d7_v2.png" />
+    <None Include="Resources\d6_v2.png" />
+    <None Include="Resources\d5_v2.png" />
+    <None Include="Resources\d4_v2.png" />
+    <None Include="Resources\d3_v2.png" />
+    <None Include="Resources\d2_v2.png" />
+    <None Include="Resources\d1_v2.png" />
+    <None Include="Resources\d0_v2.png" />
+    <None Include="Resources\d0_v1.png" />
+    <None Include="Resources\x8_v1.png" />
+    <None Include="Resources\x7_v1.png" />
+    <None Include="Resources\x6_v1.png" />
+    <None Include="Resources\x5_v1.png" />
+    <None Include="Resources\x4_v1.png" />
+    <None Include="Resources\x3_v1.png" />
+    <None Include="Resources\x2_v1.png" />
+    <None Include="Resources\x0_v1.png" />
+    <None Include="Resources\d9_v1.png" />
+    <None Include="Resources\d8_v1.png" />
+    <None Include="Resources\d7_v1.png" />
+    <None Include="Resources\d6_v1.png" />
+    <None Include="Resources\d5_v1.png" />
+    <None Include="Resources\d4_v1.png" />
+    <None Include="Resources\d3_v1.png" />
+    <None Include="Resources\nen3.png" />
+    <None Include="Resources\nen2.png" />
+    <None Include="Resources\nen1.png" />
+    <None Include="Resources\fonts_1_.png" />
+    <None Include="Resources\fonts_2.png" />
+    <None Include="Resources\fonts_3.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

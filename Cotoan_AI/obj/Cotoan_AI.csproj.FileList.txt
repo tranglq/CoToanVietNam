@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MChess.MChess.resources
+obj\Debug\Cotoan_AI.Properties.Resources.resources
+obj\Debug\Cotoan_AI.csproj.GenerateResource.Cache
+bin\Debug\Cotoan_AI.exe
+bin\Debug\Cotoan_AI.pdb
+obj\Debug\Cotoan_AI.exe
+obj\Debug\Cotoan_AI.pdb
