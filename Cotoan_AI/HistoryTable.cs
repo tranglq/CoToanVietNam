@@ -63,6 +63,7 @@ namespace MChess
                 Move move1 = (Move)o1;
                 Move move2 = (Move)o2;
                 if (move1.value <= move2.value )
+
                     return 0;
                 else
                     return -1;
@@ -78,7 +79,8 @@ namespace MChess
             /*foreach (Move f in moveList)
             {
                 if (!(f == null))
-                if (History[color][f.x1, f.y1, f.x2, f.y2]> 0) ass++;
+                if (History[color][f.x1, f.y1, f.x
+                2, f.y2]> 0) ass++;
                 if (ass > 5) test = 1;
             }*/
             return true;

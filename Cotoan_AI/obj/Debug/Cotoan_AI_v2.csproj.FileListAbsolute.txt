@@ -76,3 +76,12 @@ C:\Users\Marowalker\Desktop\math-chess-game-remove_evaluation_function\Cotoan_AI
 C:\Users\Marowalker\Desktop\math-chess-game-remove_evaluation_function\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csproj.CoreCompileInputs.cache
 C:\Users\Marowalker\Desktop\math-chess-game-remove_evaluation_function\Cotoan_AI\obj\Debug\Cotoan_AI.exe
 C:\Users\Marowalker\Desktop\math-chess-game-remove_evaluation_function\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
+E:\CoToanVietNam\CoToanVietNam\Cotoan_AI\bin\Debug\Cotoan_AI.exe
+E:\CoToanVietNam\CoToanVietNam\Cotoan_AI\bin\Debug\Cotoan_AI.pdb
+E:\CoToanVietNam\CoToanVietNam\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csprojAssemblyReference.cache
+E:\CoToanVietNam\CoToanVietNam\Cotoan_AI\obj\Debug\MChess.MChess.resources
+E:\CoToanVietNam\CoToanVietNam\Cotoan_AI\obj\Debug\Cotoan_AI.Properties.Resources.resources
+E:\CoToanVietNam\CoToanVietNam\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csproj.GenerateResource.cache
+E:\CoToanVietNam\CoToanVietNam\Cotoan_AI\obj\Debug\Cotoan_AI_v2.csproj.CoreCompileInputs.cache
+E:\CoToanVietNam\CoToanVietNam\Cotoan_AI\obj\Debug\Cotoan_AI.exe
+E:\CoToanVietNam\CoToanVietNam\Cotoan_AI\obj\Debug\Cotoan_AI.pdb
