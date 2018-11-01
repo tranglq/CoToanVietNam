@@ -67,20 +67,10 @@ namespace MChess
             //Tính điểm heuristic trạng thái dựa trên khả năng phòng ngự và hết cờ
             int defendXanh = 0;
             int defendDo = 0;
-            if (brd.canDefend(1))
-            {
-                defendXanh = 10;
-            }
+            if (brd.canDefend(1)) defendXanh = 10;
             else defendXanh = -1000;
-
-            if (brd.canDefend(2)){
-                defendDo = 10;
-            }
-            else
-            {
-                defendDo = -1000;
-            }
-
+            if (brd.canDefend(2)) defendDo = 10;
+            else defendDo = -1000;
             int defend = defendDo - diemChieuXanh;
 
             heuristicDo = domanh + 5 *diem + diemChieu + defend;
